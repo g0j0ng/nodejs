@@ -1,0 +1,22 @@
+--------node.js 이용한 서버구축---------
+1.node.js설치
+2.서버폴더를 생성
+3.package.json 생성
+(npm init => entry point 정확하게 지정)
+4.express 설치 
+(npm install express OR yarn add express)
+5.entry point에 지정한 서버파일 생성
+6.post방식의 요청시 body-parser를 이용하여 요청값 수신
+7.ejs 설치
+
+
+npm init  -------서버이름 server.js지정함 
+npm init -y  //안되면 이거로하고 제이슨파일  main에서 서버파일지정 
+
+npm install express
+yarn add express 
+npm install mongodb
+
+컨트롤c  //서버끄기 
+node 파일명.js  //서버오픈
+---------------------------
