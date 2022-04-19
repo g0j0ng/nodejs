@@ -16,6 +16,8 @@ npm init -y  //안되면 이거로하고 제이슨파일  main에서 서버파�
 npm install express
 yarn add express 
 npm install mongodb
+npm i ejs //ejs실행
+
 
 컨트롤c  //서버끄기 
 node 파일명.js  //서버오픈
